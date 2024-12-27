@@ -1,0 +1,22 @@
+.product {
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .product img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  button {
+    background-color: #ff7a00;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  

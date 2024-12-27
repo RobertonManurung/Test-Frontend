@@ -1,0 +1,18 @@
+.search-container {
+    background: #f8f8f8;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .search-bar select, .search-bar button {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    background-color: #ff7a00;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
